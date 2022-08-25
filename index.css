@@ -1,0 +1,205 @@
+body {
+  margin: 0;
+  /* background-color: #7fffd4; */
+  /* background-image: url('./Images/Img1.jpg'); */
+  /* width: 100%; */
+  /* height: 100vw; */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.navbar{
+  background-color: rgb(0, 0, 0);
+  height: 70px;
+}
+.navb{
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(105, 105, 105);
+}
+.na{
+  margin-right: 30px;
+}
+a:hover{
+  color: white;
+}
+.fulljoin{
+  background-color: rgb(41, 35, 35);
+  color: white;
+  padding-top: 80px;
+  padding-left: 100px;
+  width: auto;
+  height: 680px;
+}
+.mainjoin{    
+ display: flex;    
+}
+.joinheading{
+  margin-left: 70px;
+  font-size: 58px;
+}
+input{
+  padding-left:10px ;
+  margin: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  height: 40px;
+}
+.email{
+  width: 427px;
+}
+.message{
+  width: 427px;
+  padding-bottom: 60px;
+  padding-top: 20px;
+}
+.join{
+  display: flex;
+}
+.contact{
+  background-color: rgb(161, 161, 161);
+  width: 44%;
+  height: 350px;
+  padding-left: 20px;
+  margin-left: 30px;
+  padding-top: 30px;
+ }
+.join-btn{
+  background-color: rgb(216, 109, 109);
+  padding: 5px 180px;
+  margin-left: 30px;
+  border: none;
+  border-radius: 10px;
+}
+.intouch{
+  background-color: black;
+  width: auto;
+  height: 500px;
+  padding: 100px 100px;
+  color: white;
+}
+.intouchheading{
+  font-size: 50px;
+}
+.touchmain{
+  margin-top: 100px;
+  display: flex;
+}
+.touch1{
+
+width: 30%;
+margin-left: 100px;
+}
+.touch2{
+  
+  width: 30%;
+  margin-left: 100px;
+}
+.touch3{
+
+  width: 30%;
+  margin-left: 100px;
+}
+.heading{
+  margin-top: 50px;
+  background-image: url("./Images/img5.jpg");
+  background-size: cover;
+  
+  width: 100%;
+  height: 600px;
+  color: white;
+
+}
+.headingh1{
+ font-size: 80px;
+ text-align: center;
+ padding-top: 150px;
+
+}
+.head2{
+  /* background-image: url("../Images/img7.jpg"); */
+  background-image: url('./Images/img7.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 700px;
+  color: white;
+  padding-top: 100px;
+}
+.head2h1{
+  margin-left: 80px;
+  font-size: 46px
+  ;
+}
+.card{
+  background-color: rgb(6, 6, 44);
+  width: 37%;
+  height: 350px;
+  margin-top: 170px;
+  margin-left: 830px;
+  padding: 50px 20px;
+}
+.icon{
+  margin: 10px 7px;
+ 
+}
+.service{
+  background-color: black;
+  color: white;
+  padding: 80px 20px;
+}
+.container{
+  display: flex;
+  margin-left: 100px;
+  justify-items: center;
+}
+.join{
+  background-color: rgb(255, 57, 57);
+  padding: 5px 150px;
+  font-size: 17px;
+  border-radius: 5px;
+  color: white;
+
+}
+.serviceh1{
+  font-size: 50px;
+  margin-left: 110px;
+  margin-bottom: 80px;
+}
+.main{
+  background-color: rgb(22, 21, 21);
+  color: white;
+  padding: 70px 10px;
+ 
+}
+.about1{
+  display: flex;
+  margin-top: 50px;
+  width: 70%;
+}
+.about{
+  width: 100%;
+ margin-left: 250px;
+  
+}
+.top{
+  width: 40%;
+  margin: 10px 100px;
+
+}
+.abouth1{
+ margin-left: 100px;
+ font-size: 50px;
+}
+/* .one{
+  
+} */
